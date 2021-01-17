@@ -6,10 +6,10 @@ _Software Developer_
 Gunjan Pandya, Bachelor’s of Engineering in Computer Science from University of Pune, India. Over 12 years of experience in Software QA, primarily in Banking domain. During the ZipCode Wilmington program, I have gained in-depth understanding of Java, Object Oriented Programming, REST APIs, TDD using JUnit, mySQL and Git/GitHub. Studying Spring Boot and Angular. Familiar with JavaScript, SDLC, Scrum and Agile methodologies.
 
 **Contact Information:**
-- Phone : (512)-412-9879
-- Email : pandya.gunjan@gmail.com
-- LinkedIn : https://www.linkedin.com/in/pandyagunjan/
-- Github : https://github.com/pandyagunjan
+- **Phone** : (512)-412-9879
+- **Email** : pandya.gunjan@gmail.com
+- **LinkedIn** : [Link](https://www.linkedin.com/in/pandyagunjan/)
+- **Github** : [Link](https://github.com/pandyagunjan)
 
 
 You can use the [editor on GitHub](https://github.com/pandyagunjan/pandyagunjan.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
