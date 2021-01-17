@@ -2,7 +2,7 @@
 
 _Software Developer_
 
-** About : **
+**About:**
 Gunjan Pandya, Bachelor’s of Engineering in Computer Science from University of Pune, India. Over 12 years of experience in Software QA, primarily in Banking domain. During the ZipCode Wilmington program, I have gained in-depth understanding of Java, Object Oriented Programming, REST APIs, TDD using JUnit, mySQL and Git/GitHub. Studying Spring Boot and Angular. Familiar with JavaScript, SDLC, Scrum and Agile methodologies.
 
 
