@@ -15,6 +15,37 @@ Gunjan Pandya, Bachelor’s of Engineering in Computer Science from University o
 - Bachelors degree in Computer Science
 - Diploma in Computer Science
 
+## Technical Skills
+Languages:
+- Java, SQL, JavaScript, HTML
+Frameworks/Libraries:
+- Spring Boot, Angular, Mockito
+Other Skills:
+- Git, Tortoise SVN
+- Object-Oriented Programming
+- Jira and TTP(Test TrackPro) - Defect tracking and Confluence
+- Postman(REST API Client)
+- Unit/Regression/Functional Testing
+- SDLC, Agile, Scrum methodologies
+- Terminal, Bash
+- Test-Driven Development
+- Microsoft Office
+
+
+Certifications:
+Sun Certified Programmer level for JDK1.4 (SCJP)
+
+## Professional Experience
+###Zip Code Wilmington
+_Software Developer_                                                                      October 2020 - January 2021
+
+- Admitted in Zip Code Wilmington’s highly-competitive software development program which accepts less than 10% of applicants.
+- Achieved over 1000 hours of software development projects and training in an immersive training program using Agile and Scrum methodologies and principles.
+- Gained experience in full-stack development with a focus on Java, test-driven development, mySQL, Spring Boot and object-oriented programming.
+
+
+
+
 
 You can use the [editor on GitHub](https://github.com/pandyagunjan/pandyagunjan.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
