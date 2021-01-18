@@ -31,8 +31,7 @@ Gunjan Pandya, Bachelor’s of Engineering in Computer Science from University o
   - Test-Driven Development
   - Microsoft Office
 
-- **Certifications:**
-  -Sun Certified Programmer level for JDK1.4 (SCJP)
+- **Certifications:** Sun Certified Programmer level for JDK1.4 (SCJP)
 
 ## Professional Experience
 ### Zip Code Wilmington
@@ -43,7 +42,11 @@ Gunjan Pandya, Bachelor’s of Engineering in Computer Science from University o
 - Achieved over 1000 hours of software development projects and training in an immersive training program using Agile and Scrum methodologies and principles.
 - Gained experience in full-stack development with a focus on Java, test-driven development, mySQL, Spring Boot and object-oriented programming.
 
+### Final Project
+- **Money Management**
+Currently developing a Full Stack Money Management application on the principle of MVC design, with a user having an account or to create a new account and perform various other transactions typically found in a bank such as withdraw, transfer and deposit money. Built-in the IntelliJ IDE using Java, Spring Boot, Angular, AWS RDS, Heroku, mySQL.  [Git Link](https://github.com/pandyagunjan/FullStack.MicroWebApplication-Server)
 
+PASTE IMAGE HERE
 
 
 
