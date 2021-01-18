@@ -17,22 +17,22 @@ Gunjan Pandya, Bachelor’s of Engineering in Computer Science from University o
 
 ## Technical Skills
 - **Languages:**
-- Java, SQL, JavaScript, HTML
+  - Java, SQL, JavaScript, HTML
 - **Frameworks/Libraries:**
-- Spring Boot, Angular, Mockito
+  - Spring Boot, Angular, Mockito
 - **Other Skills:**
-- Git, Tortoise SVN
-- Object-Oriented Programming
-- Jira and TTP(Test TrackPro) - Defect tracking and Confluence
-- Postman(REST API Client)
-- Unit/Regression/Functional Testing
-- SDLC, Agile, Scrum methodologies
-- Terminal, Bash
-- Test-Driven Development
-- Microsoft Office
+  - Git, Tortoise SVN
+  - Object-Oriented Programming
+  - Jira and TTP(Test TrackPro) - Defect tracking and Confluence
+  - Postman(REST API Client)
+  - Unit/Regression/Functional Testing
+  - SDLC, Agile, Scrum methodologies
+  - Terminal, Bash
+  - Test-Driven Development
+  - Microsoft Office
 
--**Certifications:**
--Sun Certified Programmer level for JDK1.4 (SCJP)
+- **Certifications:**
+  -Sun Certified Programmer level for JDK1.4 (SCJP)
 
 ## Professional Experience
 ### Zip Code Wilmington
