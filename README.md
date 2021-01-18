@@ -47,7 +47,7 @@ Gunjan Pandya, Bachelor’s of Engineering in Computer Science from University o
 
 Currently developing a Full Stack Money Management application on the principle of MVC design, with a user having an account or to create a new account and perform various other transactions typically found in a bank such as withdraw, transfer and deposit money. Built-in the IntelliJ IDE using Java, Spring Boot, Angular, AWS RDS, Heroku, mySQL.  
 
-PASTE IMAGE HERE
+![Image](Image1.png)
 
 
 
