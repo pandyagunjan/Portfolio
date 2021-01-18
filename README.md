@@ -18,7 +18,7 @@ Gunjan Pandya, Bachelor’s of Engineering in Computer Science from University o
 ## Technical Skills
 - **Languages:**
   - Java, SQL, JavaScript, HTML
-- **Frameworks/Libraries:**
+- **Frameworks:**
   - Spring Boot, Angular, Mockito
 - **Other Skills:**
   - Git, Tortoise SVN
