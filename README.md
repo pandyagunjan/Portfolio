@@ -8,9 +8,9 @@ Gunjan Pandya, Bachelor’s of Engineering in Computer Science from University o
 **Contact Information:**
 
 - **Email** : pandya.gunjan@gmail.com
-- **LinkedIn** : <a href="https://www.linkedin.com/in/pandyagunjan/)" target="_blank" rel="noopener noreferrer">Click here</a>.</p>
+- **LinkedIn** : <a href="https://www.linkedin.com/in/pandyagunjan/)" target="_blank" rel="noopener noreferrer">Click here</a>
 
-- **Github** : <a href="https://github.com/pandyagunjan)" target="_blank" rel="noopener noreferrer">Click here</a>.</p>
+- **Github** : <a href="https://github.com/pandyagunjan)" target="_blank" rel="noopener noreferrer">Click here</a>
 
 **Education:**
 - Bachelors degree in Computer Science
