@@ -28,8 +28,7 @@ Gunjan Pandya, Bachelor’s of Engineering in Computer Science from University o
   - Unit/Regression/Functional Testing
   - SDLC, Agile, Scrum methodologies
   - Terminal, Bash
-  - Test-Driven Development
-  - Microsoft Office
+  - Test-Driven Development  
 
 - **Certifications:** 
 - Sun Certified Programmer level for JDK1.4 (SCJP)
