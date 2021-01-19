@@ -49,8 +49,8 @@ Gunjan Pandya, Bachelor’s of Engineering in Computer Science from University o
   height="100%">
   <iframe
     src="Gunjan_SQL_Certificate.pdf"
-    width="100%"
-    height="100%"
+    width="50%"
+    height="50%"
     style="border: none;">
     <p>Your browser does not support PDFs.
       <a href="https://github.com/pandyagunjan/Portfolio/blob/main/Gunjan_SQL_Certificate.pdf">Download the PDF</a>.</p>
