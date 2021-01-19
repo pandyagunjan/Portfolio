@@ -31,7 +31,9 @@ Gunjan Pandya, Bachelor’s of Engineering in Computer Science from University o
   - Test-Driven Development
   - Microsoft Office
 
-- **Certifications:** Sun Certified Programmer level for JDK1.4 (SCJP)
+- **Certifications:** 
+- Sun Certified Programmer level for JDK1.4 (SCJP)
+- [SQL Certification](https://github.com/pandyagunjan/Portfolio/blob/main/Gunjan_SQL_Certificate.pdf)
 
 ## Professional Experience
 ### Zip Code Wilmington
