@@ -39,14 +39,6 @@ Gunjan Pandya, Bachelor’s of Engineering in Computer Science from University o
   type="application/pdf"
   width="100%"
   height="100%">
-  <iframe
-    src="https://example.com/test.pdf#page=2"
-    width="100%"
-    height="100%"
-    style="border: none;">
-    <p>Your browser does not support PDFs.
-      <a href="https://github.com/pandyagunjan/Portfolio/blob/main/Gunjan_SQL_Certificate.pdf">SQL Certification</a>.</p>
-  </iframe>
 </object>
 ## Professional Experience
 ### Zip Code Wilmington
