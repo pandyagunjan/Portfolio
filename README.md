@@ -49,4 +49,14 @@ Gunjan Pandya, Bachelor’s of Engineering in Computer Science from University o
 Currently developing a Full Stack Money Management application on the principle of MVC design, with a user having an account or to create a new account and perform various other transactions typically found in a bank such as withdraw, transfer and deposit money. Built-in the IntelliJ IDE using Java, Spring Boot, Angular, AWS RDS, Heroku, mySQL.  
 
 ![Image](/ZipBank_UI_Snapshots/1.png)
+![Image](/ZipBank_UI_Snapshots/2.png)
+![Image](/ZipBank_UI_Snapshots/3.png)
+![Image](/ZipBank_UI_Snapshots/4.png)
+![Image](/ZipBank_UI_Snapshots/5.png)
+![Image](/ZipBank_UI_Snapshots/6.png)
+![Image](/ZipBank_UI_Snapshots/7.png)
+![Image](/ZipBank_UI_Snapshots/8.png)
+![Image](/ZipBank_UI_Snapshots/9.png)
+![Image](/ZipBank_UI_Snapshots/10.png)
 
+[More Images](https://github.com/pandyagunjan/Portfolio/tree/main/ZipBank_UI_Snapshots)
