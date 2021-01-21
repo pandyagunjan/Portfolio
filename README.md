@@ -36,8 +36,8 @@ Gunjan Pandya, Bachelor’s of Engineering in Computer Science from University o
 
 ## Professional Experience
 ### Zip Code Wilmington
-- _Software Developer_ 
-- October 2020 - January 2021
+ **_Software Developer_ **
+ October 2020 - January 2021
 
 - Admitted in Zip Code Wilmington’s highly-competitive software development program which accepts less than 10% of applicants.
 - Achieved over 1000 hours of software development projects and training in an immersive training program using Agile and Scrum methodologies and principles.
