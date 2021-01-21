@@ -51,6 +51,7 @@ Currently developing a Full Stack Money Management application on the principle 
 
 	![Image](2.png)
 	
+	<a class="js-navigation-open link-gray-dark" title="images" href="/Preeti0118/Preeti_Portfolio/tree/master/images">images</a></span>	
 	![Image](ZipBank_UI_Snapshots/2.png)
 	
 	
