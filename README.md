@@ -46,7 +46,7 @@ Gunjan Pandya, Bachelor’s of Engineering in Computer Science from University o
 ### Final Project
 - **Bank Application** ([Git Link](https://github.com/pandyagunjan/FullStack.MicroWebApplication-Server))
 
-Working in a team of six to create a full stack banking application on the principle of MVC design, with a user having an account or to create a new account and perform various other transactions typically found in a bank such as withdraw, transfer and deposit money. Built-in the IntelliJ IDE using Java, Spring Boot, Angular, AWS RDS, Heroku, mySQL.  
+Worked with a team of six to create a full stack banking application on the principle of MVC design, with a user having an account or to create a new account and perform various other transactions typically found in a bank such as withdraw, transfer and deposit money. Built-in the IntelliJ IDE using Java, Spring Boot, Angular, AWS RDS, Heroku, mySQL.  
 
 ![Image](/ZipBank_UI_Snapshots/1.png)
 
