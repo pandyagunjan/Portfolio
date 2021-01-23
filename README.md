@@ -45,7 +45,7 @@ Gunjan Pandya, Bachelor’s of Engineering in Computer Science from University o
 
 ### Final Project
 - **Bank Application** 
-- <a href="http://zip-bank.herokuapp.com/" target="_blank" rel="noopener noreferrer">Application Link</a> (username : user1 and password: password)
+- <a href="http://zip-bank.herokuapp.com/" target="_blank" rel="noopener noreferrer">Application Link</a> _(username : user1 and password: password)_
 - <a href="https://github.com/pandyagunjan/FullStack.MicroWebApplication-Server" target="_blank" rel="noopener noreferrer">Github Back-end link</a>
 - <a href="https://github.com/pandyagunjan/ZipBank-FrontEnd" target="_blank" rel="noopener noreferrer">Github Front-end link</a>
 
