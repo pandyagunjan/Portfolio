@@ -45,9 +45,9 @@ Gunjan Pandya, Bachelor’s of Engineering in Computer Science from University o
 
 ### Final Project
 - **Bank Application** 
-- <a href="http://zip-bank.herokuapp.com/" target="_blank" rel="noopener noreferrer">Application Link</a>
-- <a href="https://github.com/pandyagunjan/FullStack.MicroWebApplication-Server" target="_blank" rel="noopener noreferrer">Github Back-end Link</a>
-- <a href="https://github.com/pandyagunjan/ZipBank-FrontEnd" target="_blank" rel="noopener noreferrer">Github Front-end Link</a>
+- <a href="http://zip-bank.herokuapp.com/" target="_blank" rel="noopener noreferrer">Application Link</a> (username : user1 and password: password)
+- <a href="https://github.com/pandyagunjan/FullStack.MicroWebApplication-Server" target="_blank" rel="noopener noreferrer">Github Back-end link</a>
+- <a href="https://github.com/pandyagunjan/ZipBank-FrontEnd" target="_blank" rel="noopener noreferrer">Github Front-end link</a>
 
 
 Worked with a team of six to create a full stack banking application on the principle of MVC design, with a user having an account or to create a new account and perform various other transactions typically found in a bank such as withdraw, transfer and deposit money. Built-in the IntelliJ IDE using Java, Spring Boot, Angular, AWS RDS, Heroku, mySQL.  
