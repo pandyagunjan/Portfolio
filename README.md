@@ -66,6 +66,7 @@ Demonstrates skills with:
 - Bootstrap
 - Heroku Deployment
 - AWS RDS
+- Mocikto and MockMVC
 
 ![Image](/ZipBank_UI_Snapshots/1.png)
 
