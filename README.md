@@ -50,7 +50,22 @@ Gunjan Pandya, Bachelor’s of Engineering in Computer Science from University o
 - <a href="https://github.com/pandyagunjan/ZipBank-FrontEnd" target="_blank" rel="noopener noreferrer">Github Front-end link</a>
 
 
-Worked with a team of six to create a full stack banking application on the principle of MVC design, with a user having an account or to create a new account and perform various other transactions typically found in a bank such as withdraw, transfer and deposit money. Built-in the IntelliJ IDE using Java, Spring Boot, Angular, AWS RDS, Heroku, mySQL.  
+Worked with a team of six to create a full stack banking application on the principle of MVC design, with a user having an account or to create a new account and perform various other transactions typically found in a bank such as withdraw, transfer and deposit money. 
+
+Demonstrates skills with:
+- Spring Boot
+- MVC
+- RESTful Services
+- JWT
+- MySQL
+- CRUD
+- Angular11
+- Typescript
+- HTML5
+- CSS
+- Bootstrap
+- Heroku Deployment
+- AWS RDS
 
 ![Image](/ZipBank_UI_Snapshots/1.png)
 
@@ -61,6 +76,5 @@ Worked with a team of six to create a full stack banking application on the prin
 ![Image](/ZipBank_UI_Snapshots/4.png)
 
 ![Image](/ZipBank_UI_Snapshots/5.png)
-
 
 [More Images](https://github.com/pandyagunjan/FullStack.MicroWebApplication-Server/blob/dev/README.md)
