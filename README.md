@@ -51,8 +51,7 @@ Gunjan Pandya, Bachelor’s of Engineering in Computer Science from University o
 
 
 Worked with a team of six to create a full stack banking application on the principle of MVC design, with a user having an account or to create a new account and perform various other transactions typically found in a bank such as withdraw, transfer and deposit money. 
-
-Demonstrates skills with:
+### Demonstrates skills with:
 - Spring Boot
 - MVC
 - RESTful Services
