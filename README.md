@@ -42,13 +42,20 @@ Gunjan Pandya, Bachelor’s of Engineering in Computer Science from University o
 - Admitted in Zip Code Wilmington’s highly-competitive software development program which accepts less than 10% of applicants.
 - Achieved over 1000 hours of software development projects and training in an immersive training program using Agile and Scrum methodologies and principles.
 - Gained experience in full-stack development with a focus on Java, test-driven development, mySQL, Spring Boot and object-oriented programming.
+### Current Project
+- **Recipe Manager Application** 
+- Working with a team of five to create a full stack recipe manager application on the principle of MVC design, with a user having an account can add, update, read or delete recipes.
+
+### Demonstrates skills with:
+- The recipe video will be stored on AWS S3 (Work in progress)
+- The user can login using google authentication api (Work in progress)
+- skills listed below in Final project
 
 ### Final Project
 - **Bank Application** 
 - <a href="http://zip-bank.herokuapp.com/" target="_blank" rel="noopener noreferrer">Application Link</a> _(username : user1 and password: password)_
 - <a href="https://github.com/pandyagunjan/FullStack.MicroWebApplication-Server" target="_blank" rel="noopener noreferrer">Github Back-end link</a>
 - <a href="https://github.com/pandyagunjan/ZipBank-FrontEnd" target="_blank" rel="noopener noreferrer">Github Front-end link</a>
-
 
 Worked with a team of six to create a full stack banking application on the principle of MVC design, with a user having an account or to create a new account and perform various other transactions typically found in a bank such as withdraw, transfer and deposit money. 
 ### Demonstrates skills with:
