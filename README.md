@@ -49,7 +49,7 @@ Gunjan Pandya, Bachelor’s of Engineering in Computer Science from University o
 ### Demonstrates skills with:
 - The recipe video will be stored on AWS S3 (Work in progress)
 - The user can login using google authentication api (Work in progress)
-- skills listed below in Final project
+- Skills listed below in Final project
 
 ### Final Project
 - **Bank Application** 
